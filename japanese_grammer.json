@@ -1,0 +1,8 @@
+{
+  data: [
+    { "title": "Fragenpartikel", "group": "Partikel", "symbolic": "か", "examplejap": "たべますか",　"exampleger": "Isst du (etwas)?", "description": "Das Fragenpartikel 'か' steht am Ende des Satzes und ersetzt das '?' in der deutschen Sprache." },
+    { "title": "Nachdruckpartikel", "group": "Partikel", "symbolic": "よ", "examplejap": "たべますよ",　"exampleger": "Ich esse (etwas)!", "description": "Das Nachdruckpartikel 'よ' steht am Ende des Satzes und ersetzt das '!' in der deutschen Sprache." },
+    { "title": "Positive Verben", "group": "Verben", "symbolic": "-ます", "examplejap": "ききます",　"exampleger": "Ich esse.", "description": "Positive Verben wie schwimmen oder laufen enden mit '-ます'." },
+    { "title": "Negative Verben", "group": "Verben", "symbolic": "-ません", "examplejap": "ききません",　"exampleger": "Ich esse nicht.", "description": "Negative Verben wie nicht schwimmen oder nicht laufen enden mit '-ません'." }
+  ]
+}
