@@ -45,6 +45,6 @@
     { "german": "ich", "german_alternate": [""], "english": "to do", "english_alternate": [""], "romaji": "watashi", "hiragana": "わたし", "groups": [ "" ] },
     { "german": "oft", "german_alternate": [""], "english": "to do", "english_alternate": [""], "romaji": "yoku", "hiragana": "よく", "groups": [ "" ] },
     { "german": "selten", "german_alternate": [""], "english": "to do", "english_alternate": [""], "romaji": "amari", "hiragana": "あまり", "groups": [ "" ] },
-    { "german": "nie", "german_alternate": [""], "english": "to do", "english_alternate": [""], "romaji": "zenzen", "hiragana": "ぜんぜん", "groups": [ "" ] },
+    { "german": "nie", "german_alternate": [""], "english": "to do", "english_alternate": [""], "romaji": "zenzen", "hiragana": "ぜんぜん", "groups": [ "" ] }
   ]
 }
