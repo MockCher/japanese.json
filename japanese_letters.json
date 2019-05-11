@@ -1,5 +1,5 @@
 {
-  tasks: [
+  "tasks": [
     { "id": 1, "romaji": "a", "romaji_hard": "", "hiragana": "あ", "hiragana_origin": "安", "hiragana_write": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Hiragana_%E3%81%82_stroke_order_animation.gif", "katagana": "ア", "katagana_origin": "阿", "katagana_write": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Katakana_%E3%82%A2_stroke_order_animation.gif", "description": "Das 'a' ist im japanischen... " },
     { "id": 2, "romaji": "i", "romaji_hard": "", "hiragana": "い", "hiragana_origin": "", "hiragana_write": "", "katagana": "イ", "katagana_origin": "", "kataganawrite": "", "description": "" },
     { "id": 3, "romaji": "u", "romaji_hard": "", "hiragana": "う", "hiragana_origin": "", "hiragana_write": "", "katagana": "ウ", "katagana_origin": "", "kataganawrite": "", "description": "" },
