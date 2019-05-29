@@ -45,6 +45,23 @@
     { "german": "ich", "german_alternate": [""], "english": "to do", "english_alternate": [""], "romaji": "watashi", "hiragana": "わたし", "groups": [ "" ] },
     { "german": "oft", "german_alternate": [""], "english": "to do", "english_alternate": [""], "romaji": "yoku", "hiragana": "よく", "groups": [ "" ] },
     { "german": "selten", "german_alternate": [""], "english": "to do", "english_alternate": [""], "romaji": "amari", "hiragana": "あまり", "groups": [ "" ] },
-    { "german": "nie", "german_alternate": [""], "english": "to do", "english_alternate": [""], "romaji": "zenzen", "hiragana": "ぜんぜん", "groups": [ "" ] }
+    { "german": "nie", "german_alternate": [""], "english": "to do", "english_alternate": [""], "romaji": "zenzen", "hiragana": "ぜんぜん", "groups": [ "" ] },
+
+    { "german": "Kleidung", "german_alternate": [""], "english": "clothes", "english_alternate": [""], "romaji": "fuku", "hiragana": "ふく", "groups": [ "" ] },
+    { "german": "Buch", "german_alternate": [""], "english": "book", "english_alternate": [""], "romaji": "hon", "hiragana": "ほん", "groups": [ "" ] },
+    { "german": "Zeitschrift", "german_alternate": [""], "english": "magazine", "english_alternate": [""], "romaji": "zasshi", "hiragana": "ざつし", "groups": [ "" ] },
+    { "german": "Arbeit", "german_alternate": [""], "english": "work", "english_alternate": [""], "romaji": "shigoko", "hiragana": "しごく", "groups": [ "" ] },
+    { "german": "Spielfilm", "german_alternate": ["Film"], "english": "movie", "english_alternate": [""], "romaji": "eiga", "hiragana": "えいが", "groups": [ "" ] },
+    { "german": "Musik", "german_alternate": [""], "english": "music", "english_alternate": [""], "romaji": "ongoku", "hiragana": "おんごく", "groups": [ "" ] },
+    { "german": "Zeitung", "german_alternate": [""], "english": "newspaper", "english_alternate": [""], "romaji": "shinbun", "hiragana": "しんぶん", "groups": [ "" ] },
+    { "german": "Fernsehen", "german_alternate": ["Fernseher"], "english": "tv", "english_alternate": ["television"], "romaji": "terebi", "hiragana": "てれび", "groups": [ "" ] },
+    { "german": "Radio", "german_alternate": [""], "english": "radio", "english_alternate": [""], "romaji": "rajio", "hiragana": "らじお", "groups": [ "" ] },
+    { "german": "Karte", "german_alternate": ["Landkarte", "Plan"], "english": "map", "english_alternate": [""], "romaji": "chizu", "hiragana": "ちず", "groups": [ "" ] },
+    { "german": "Papier", "german_alternate": [""], "english": "paper", "english_alternate": [""], "romaji": "kami", "hiragana": "かみ", "groups": [ "" ] },
+    { "german": "Wörterbuch", "german_alternate": [""], "english": "dictionary", "english_alternate": [""], "romaji": "jisho", "hiragana": "じしょ", "groups": [ "" ] },
+    { "german": "Postkarte", "german_alternate": [""], "english": "postcard", "english_alternate": [""], "romaji": "hagaki", "hiragana": "はがき", "groups": [ "" ] },
+    { "german": "Foto", "german_alternate": [""], "english": "photo", "english_alternate": [""], "romaji": "shashin", "hiragana": "しゃしん", "groups": [ "" ] },
+    { "german": "Bleistift", "german_alternate": [""], "english": "pencil", "english_alternate": [""], "romaji": "enpitsu", "hiragana": "えんぴつ", "groups": [ "" ] },
+    { "german": "Wasser", "german_alternate": [""], "english": "water", "english_alternate": [""], "romaji": "mizu", "hiragana": "みず", "groups": [ "" ] }
   ]
 }
