@@ -5,6 +5,7 @@
     { "title": "Positive Verben", "group": "Verben", "symbolic": "-ます", "examplejap": "ききます", "exampleger": "Ich esse.", "description": "Positive Verben wie schwimmen oder laufen enden mit '-ます'." },
     { "title": "Negative Verben", "group": "Verben", "symbolic": "-ません", "examplejap": "ききません", "exampleger": "Ich esse nicht.", "description": "Negative Verben wie nicht schwimmen oder nicht laufen enden mit '-ません'." },
     { "title": "Nomen", "group": "Wortarten", "symbolic": "ほん", "examplejap": "ほん", "exampleger": "Das Buch. / Die Bücher. \nEin Buch. / Das Buch.", "description": "Nomen besitzen im japanischen keine Mehrzahl, kein grammatikalisches Geschlecht und keine Bestimmung." },
-    { "title": "Gegenwart & Zukunft", "group": "Zeitformen", "symbolic": "-ます", "examplejap": "かいます", "exampleger": "", "description": "Nomen besitzen im japanischen keine Mehrzahl, kein grammatikalisches Geschlecht und keine Bestimmung." }
+    { "title": "Gegenwart & Zukunft", "group": "Zeitformen", "symbolic": "-ます", "examplejap": "かいます", "exampleger": "kaufen", "description": "" },
+    { "title": "Objekt", "group": "Bindewörder", "symbolic": "を", "examplejap": "ほん　を　かいます", "exampleger": "Ein Buch kaufen.", "description": "Das を steht hinter dem Objekt und steht meist vor dem Verb." }
   ]
 }
