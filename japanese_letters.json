@@ -35,9 +35,6 @@
     { "romaji": "mu", "romaji_hard": "", "hiragana": "む", "hiragana_origin": "", "hiragana_write": "", "katagana": "ム", "katagana_origin": "", "kataganawrite": "", "description": "" },
     { "romaji": "me", "romaji_hard": "", "hiragana": "め", "hiragana_origin": "", "hiragana_write": "", "katagana": "メ", "katagana_origin": "", "kataganawrite": "", "description": "" },
     { "romaji": "mo", "romaji_hard": "", "hiragana": "も", "hiragana_origin": "", "hiragana_write": "", "katagana": "モ", "katagana_origin": "", "kataganawrite": "", "description": "" },
-    { "romaji": "ya", "romaji_hard": "", "hiragana": "や", "hiragana_origin": "", "hiragana_write": "", "katagana": "ヤ", "katagana_origin": "", "kataganawrite": "", "description": "" },
-    { "romaji": "yu", "romaji_hard": "", "hiragana": "ゆ", "hiragana_origin": "", "hiragana_write": "", "katagana": "ユ", "katagana_origin": "", "kataganawrite": "", "description": "" },
-    { "romaji": "yo", "romaji_hard": "", "hiragana": "よ", "hiragana_origin": "", "hiragana_write": "", "katagana": "ヨ", "katagana_origin": "", "kataganawrite": "", "description": "" },
     { "romaji": "ra", "romaji_hard": "", "hiragana": "ら", "hiragana_origin": "", "hiragana_write": "", "katagana": "ラ", "katagana_origin": "", "kataganawrite": "", "description": "" },
     { "romaji": "ri", "romaji_hard": "", "hiragana": "り", "hiragana_origin": "", "hiragana_write": "", "katagana": "リ", "katagana_origin": "", "kataganawrite": "", "description": "" },
     { "romaji": "ru", "romaji_hard": "", "hiragana": "る", "hiragana_origin": "", "hiragana_write": "", "katagana": "ル", "katagana_origin": "", "kataganawrite": "", "description": "" },
@@ -47,6 +44,9 @@
     { "romaji": "wi", "romaji_hard": "", "hiragana": "ゐ", "hiragana_origin": "", "hiragana_write": "", "katagana": "ヰ", "katagana_origin": "", "kataganawrite": "", "description": "" },
     { "romaji": "we", "romaji_hard": "", "hiragana": "ゑ", "hiragana_origin": "", "hiragana_write": "", "katagana": "ヱ", "katagana_origin": "", "kataganawrite": "", "description": "" },
     { "romaji": "wo", "romaji_hard": "", "hiragana": "を", "hiragana_origin": "", "hiragana_write": "", "katagana": "ヲ", "katagana_origin": "", "kataganawrite": "", "description": "" },
-    { "romaji": "n", "romaji_hard": "", "hiragana": "ん", "hiragana_origin": "", "hiragana_write": "", "katagana": "ン", "katagana_origin": "", "kataganawrite": "", "description": "" }
+    { "romaji": "n", "romaji_hard": "", "hiragana": "ん", "hiragana_origin": "", "hiragana_write": "", "katagana": "ン", "katagana_origin": "", "kataganawrite": "", "description": "" },
+    { "romaji": "ya", "romaji_hard": "", "hiragana": "や", "hiragana_origin": "", "hiragana_write": "", "katagana": "ヤ", "katagana_origin": "", "kataganawrite": "", "description": "" },
+    { "romaji": "yu", "romaji_hard": "", "hiragana": "ゆ", "hiragana_origin": "", "hiragana_write": "", "katagana": "ユ", "katagana_origin": "", "kataganawrite": "", "description": "" },
+    { "romaji": "yo", "romaji_hard": "", "hiragana": "よ", "hiragana_origin": "", "hiragana_write": "", "katagana": "ヨ", "katagana_origin": "", "kataganawrite": "", "description": "" }
   ]
 }
