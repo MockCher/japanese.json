@@ -1,6 +1,6 @@
 {
   "words": [
-    { "german": "Fisch", "german_alternate": [""], "english": "fish", "english_alternate": [""], "romaji": "sakana", "hiragana": "さかな", "groups": [ "food", "animal" ] },
+    { "german": "Fisch", "german_alternate": [""], "english": "fish", "english_alternate": [""], "romaji": "sakana", "hiragana": "さかな", "groups": [ "food", "animal" ], "icon": "fish" },
     { "german": "Schüler", "german_alternate": ["Student"], "english": "student", "english_alternate": ["pupil"], "romaji": "gakusai", "hiragana": "がくさい", "groups": [ "job" ] },
     { "german": "Hallo", "german_alternate": ["Guten Tag"], "english": "hello", "english_alternate": [""], "romaji": "konnichiwa", "hiragana": "こんにちは", "groups": [ "communication" ] },
     { "german": "Willkommen", "german_alternate": [""], "english": "welcome", "english_alternate": [""], "romaji": "yokoso", "hiragana": "ようこそ", "groups": [ "communication" ] },
