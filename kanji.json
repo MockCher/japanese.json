@@ -1,0 +1,29 @@
+{
+  "kanji": [
+    {
+      "group": "Zahlen",
+      "symbol": "1",
+      "kanjis": [
+        { "kanji": "一", "german": "1 / Eins", "romaji": "ichi" },
+        { "kanji": "ニ", "german": "2 / Zwei", "romaji": "ni" },
+        { "kanji": "三", "german": "3 / Drei", "romaji": "san" },
+        { "kanji": "四", "german": "4 / Vier", "romaji": "yon" },
+        { "kanji": "五", "german": "5 / Fünf", "romaji": "go" },
+        { "kanji": "六", "german": "6 / Sechs", "romaji": "roku" },
+        { "kanji": "七", "german": "7 / Sieben", "romaji": "shiti" },
+        { "kanji": "八", "german": "8 / Acht", "romaji": "hachi" },
+        { "kanji": "九", "german": "9 / Neun", "romaji": "kyuu" },
+        { "kanji": "十", "german": "10 / Zehn", "romaji": "tou" },
+        { "kanji": "百", "german": "100 / Hundert", "romaji": "hyaku" },
+        { "kanji": "千", "german": "1000 / Tausend", "romaji": "sen" }
+      ]
+    },
+    {
+      "group": "Radikale",
+      "symbol": "一",
+      "kanjis": [
+        { "kanji": "一", "german": "Radikal für blablabla" }
+      ]
+    }
+  ]
+}
