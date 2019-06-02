@@ -6,6 +6,10 @@
     { "title": "Negative Verben", "group": "Verben", "symbolic": "-ません", "examplejap": "ききません", "exampleger": "Ich esse nicht.", "description": "Negative Verben wie nicht schwimmen oder nicht laufen enden mit '-ません'." },
     { "title": "Nomen", "group": "Wortarten", "symbolic": "ほん", "examplejap": "ほん", "exampleger": "Das Buch. / Die Bücher. \nEin Buch. / Das Buch.", "description": "Nomen besitzen im japanischen keine Mehrzahl, kein grammatikalisches Geschlecht und keine Bestimmung." },
     { "title": "Gegenwart & Zukunft", "group": "Zeitformen", "symbolic": "-ます", "examplejap": "かいます", "exampleger": "kaufen", "description": "" },
-    { "title": "Objekt", "group": "Bindewörder", "symbolic": "を", "examplejap": "ほん　を　かいます", "exampleger": "Ein Buch kaufen.", "description": "Das を steht hinter dem Objekt und steht meist vor dem Verb." }
+    { "title": "Objekt", "group": "Partikel", "symbolic": "を", "examplejap": "ほん　を　かいます", "exampleger": "Ein Buch kaufen.", "description": "Das を steht hinter dem Objekt und steht meist vor dem Verb." },
+    { "title": "Aufzählung", "group": "Partikel", "symbolic": "と", "examplejap": "さかな　と　ごはん　と　やさい", "exampleger": "Fisch, Reis und Gemüse.", "description": "Das と　verbindet aufgezählte Substantive & Pronomen. Entspricht Komma und 'und'" },
+    { "title": "Aufzählung", "group": "Partikel", "symbolic": "と", "examplejap": "さかな　と　やさい　を　たべます", "exampleger": "Fisch und Gemüse essen.", "description": "Die Aufzählung selbst stellt ein Objekt dar." },
+    { "title": "Satzthema", "group": "Partikel", "symbolic": "は", "examplejap": "わたし　は　しんぶん を よみます", "exampleger": "Ich lese eine Zeitung.", "description": "Das Satzanzeigerpartikel weist auf das Satzthema. Das Satzthema muss nur einmal genannt werden, danach beziehen sich Sätze auf dieses bis ein neues Satzthema kommt." },
+    { "title": "'Auch'-Partikel", "group": "Partikel", "symbolic": "も", "examplejap": "わたし　も　しんぶん　を　ぞみます", "exampleger": "Ich lese auch eine Zeitung.", "description": "Zeigt an, das vorangegange ebenfalls zu machen, sein etc." }
   ]
 }

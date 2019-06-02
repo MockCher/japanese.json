@@ -28,7 +28,6 @@
     { "german": "verstehen", "german_alternate": ["wissen"], "english": "to know", "english_alternate": ["to understand"], "romaji": "waharimasu", "hiragana": "わはります", "groups": [ "activity" ], "icon": "" },
     { "german": "zeichnen", "german_alternate": ["schreiben"], "english": "to draw", "english_alternate": ["to write"], "romaji": "kakimasu", "hiragana": "かきます", "groups": [ "activity" ], "icon": "" },
     { "german": "tun", "german_alternate": [""], "english": "to do", "english_alternate": [""], "romaji": "shimasu", "hiragana": "します", "groups": [ "activity" ], "icon": "" },
-
     { "german": "ja", "german_alternate": [""], "english": "yes", "english_alternate": [""], "romaji": "hai", "hiragana": "はい", "groups": [ "communication" ], "icon": "" },
     { "german": "nein", "german_alternate": [""], "english": "no", "english_alternate": [""], "romaji": "iie", "hiragana": "いいえ", "groups": [ "communication" ], "icon": "" },
     { "german": "bitte", "german_alternate": [""], "english": "please", "english_alternate": [""], "romaji": "douzo", "hiragana": "どうぞ", "groups": [ "communication" ], "icon": "" },
@@ -62,7 +61,6 @@
     { "german": "Foto", "german_alternate": [""], "english": "photo", "english_alternate": [""], "romaji": "shashin", "hiragana": "しゃしん", "groups": [ "objects" ], "icon": "" },
     { "german": "Bleistift", "german_alternate": [""], "english": "pencil", "english_alternate": [""], "romaji": "enpitsu", "hiragana": "えんぴつ", "groups": [ "objects", "office" ], "icon": "" },
     { "german": "Wasser", "german_alternate": [""], "english": "water", "english_alternate": [""], "romaji": "mizu", "hiragana": "みず", "groups": [ "objects" ], "icon": "" },
-
     { "german": "Drückt Überraschung aus", "german_alternate": [""], "english": "Expression of suprise", "english_alternate": [""], "romaji": "a", "hiragana": "あ", "groups": [ "communication" ], "icon": "" },
     { "german": "Diese Person hier", "german_alternate": [""], "english": "This person", "english_alternate": [""], "romaji": "kochira", "hiragana": "こちら", "groups": [ "communication" ], "icon": "" },
     { "german": "Freund/in", "german_alternate": [""], "english": "friend", "english_alternate": [""], "romaji": "tomodachi", "hiragana": "ともだち", "groups": [ "relationship" ], "icon": "" },
@@ -78,7 +76,6 @@
     { "german": "Japan", "german_alternate": [""], "english": "japan", "english_alternate": [""], "romaji": "nihon", "hiragana": "にほん", "groups": [ "geography" ], "icon": "" },
     { "german": "Uhr", "german_alternate": [""], "english": "clock", "english_alternate": [""], "romaji": "tokei", "hiragana": "とけい", "groups": [ "objects" ], "icon": "" },
     { "german": "Regenschirm", "german_alternate": ["Schirm"], "english": "umbrella", "english_alternate": [""], "romaji": "kasa", "hiragana": "かさ", "groups": [ "objects" ], "icon": "" },
-
     { "german": "Es tut mir leid", "german_alternate": [""], "english": "sorry", "english_alternate": [""], "romaji": "gomennasai", "hiragana": "ごめんなさい", "groups": [ "communication" ], "icon": "" },
     { "german": "vielen Dank", "german_alternate": [""], "english": "thank you very much", "english_alternate": [""], "romaji": "arigatou gozaimasu", "hiragana": "ありがとう　ごやいます", "groups": [ "communication" ], "icon": "" },
     { "german": "hmm...", "german_alternate": [""], "english": "mh", "english_alternate": [""], "romaji": "saa", "hiragana": "さあ", "groups": [ "communication" ], "icon": "" },
@@ -96,6 +93,31 @@
     { "german": "Reis", "extendet": "gekochter", "german_alternate": ["Essen"], "english": "cooked rice", "english_alternate": [""], "romaji": "gohan", "hiragana": "ごはん", "groups": [ "food" ], "icon": "" },
     { "german": "Frühstück", "german_alternate": [""], "english": "breakfast", "english_alternate": [""], "romaji": "asagohan", "hiragana": "あさごはん", "groups": [ "food" ], "icon": "" },
     { "german": "Mittagessen", "german_alternate": [""], "english": "lunch", "english_alternate": [""], "romaji": "hirugohan", "hiragana": "ひるごはん", "groups": [ "food" ], "icon": "" },
-    { "german": "Abendbrot", "german_alternate": [""], "english": "dinner", "english_alternate": [""], "romaji": "bangohan", "hiragana": "ばんごはん", "groups": [ "food" ], "icon": "" }
+    { "german": "Abendbrot", "german_alternate": [""], "english": "dinner", "english_alternate": [""], "romaji": "bangohan", "hiragana": "ばんごはん", "groups": [ "food" ], "icon": "" },
+
+    { "german": "Miso-Suppe", "german_alternate": [""], "english": "misosoup", "english_alternate": [""], "romaji": "misoshiru", "hiragana": "みそしる", "groups": [ "food" ], "icon": "" },
+    { "german": "roher Fisch", "extendet": "in Scheiben", "german_alternate": [""], "english": "raw, sliced Fisch", "english_alternate": [""], "romaji": "sashimi", "hiragana": "さしみ", "groups": [ "food" ], "icon": "" },
+    { "german": "danach", "german_alternate": ["dann"], "english": "then", "english_alternate": ["after"], "romaji": "sorekara", "hiragana": "それから", "groups": [ "time" ], "icon": "" },
+    { "german": "tja", "german_alternate": ["also"], "english": "so", "english_alternate": ["also"], "romaji": "jaa / dewa", "hiragana": "じゃあ　/ でわ", "groups": [ "communication" ], "icon": "" },
+    { "german": "begegnen", "german_alternate": ["sich treffen"], "english": "to meet", "english_alternate": [""], "romaji": "aimasu", "hiragana": "あいます", "groups": [ "activity" ], "icon": "" },
+    { "german": "Familienname", "german_alternate": ["Nachname"], "english": "lastname", "english_alternate": ["familyname"], "romaji": "myouji", "hiragana": "みょうじ", "groups": [ "communication" ], "icon": "" },
+    { "german": "Ehemann", "german_alternate": [""], "english": "husband", "english_alternate": [""], "romaji": "danna-san", "hiragana": "だんなさん", "groups": [ "relationship" ], "icon": "" },
+    { "german": "Einkauf", "german_alternate": [""], "english": "grocerys", "english_alternate": [""], "romaji": "kaimono", "hiragana": "かいもの", "groups": [ "activity" ], "icon": "" },
+    { "german": "Auto", "german_alternate": ["Wagen"], "english": "car", "english_alternate": [""], "romaji": "kuruma", "hiragana": "くるま", "groups": [ "transportation" ], "icon": "" },
+    { "german": "Deutschland", "german_alternate": [""], "english": "Germany", "english_alternate": [""], "romaji": "doitsu", "hiragana": "どいつ", "groups": [ "geography" ], "icon": "" },
+    { "german": "Japan", "german_alternate": [""], "english": "Japan", "english_alternate": [""], "romaji": "nihon", "hiragana": "いほん", "groups": [ "geography" ], "icon": "" },
+    { "german": "China", "german_alternate": [""], "english": "China", "english_alternate": [""], "romaji": "chuugoku", "hiragana": "ちゅうごく", "groups": [ "geography" ], "icon": "" },
+    { "german": "Spanien", "german_alternate": [""], "english": "Spain", "english_alternate": [""], "romaji": "supein", "hiragana": "すぺいん", "groups": [ "geography" ], "icon": "" },
+    { "german": "Österreich", "german_alternate": [""], "english": "Austria", "english_alternate": [""], "romaji": "osutoria", "hiragana": "おすとりあ", "groups": [ "geography" ], "icon": "" },
+    { "german": "Griechenland", "german_alternate": [""], "english": "Greek", "english_alternate": [""], "romaji": "girisha", "hiragana": "ぎりしゃ", "groups": [ "geography" ], "icon": "" },
+    { "german": "Großbritannien", "german_alternate": [""], "english": "Great Britain", "english_alternate": [""], "romaji": "igirisu", "hiragana": "いぎりす", "groups": [ "geography" ], "icon": "" },
+    { "german": "Irland", "german_alternate": [""], "english": "Ireland", "english_alternate": [""], "romaji": "aisurando", "hiragana": "あいすらんど", "groups": [ "geography" ], "icon": "" },
+    { "german": "Türkei", "german_alternate": [""], "english": "Turkey", "english_alternate": [""], "romaji": "toruko", "hiragana": "とるこ", "groups": [ "geography" ], "icon": "" },
+    { "german": "Polen", "german_alternate": [""], "english": "Poland", "english_alternate": [""], "romaji": "porando", "hiragana": "ぽらんど", "groups": [ "geography" ], "icon": "" },
+    { "german": "Frankreich", "german_alternate": [""], "english": "France", "english_alternate": [""], "romaji": "furansu", "hiragana": "ふらんす", "groups": [ "geography" ], "icon": "" },
+    { "german": "Russland", "german_alternate": [""], "english": "Russia", "english_alternate": [""], "romaji": "roshia", "hiragana": "ろしあ", "groups": [ "geography" ], "icon": "" },
+    { "german": "Italien", "german_alternate": [""], "english": "Italy", "english_alternate": [""], "romaji": "itaria", "hiragana": "いたりあ", "groups": [ "geography" ], "icon": "" },
+    { "german": "Schweiz", "german_alternate": [""], "english": "Swiss", "english_alternate": [""], "romaji": "suisu", "hiragana": "すいす", "groups": [ "geography" ], "icon": "" },
+    { "german": "Amerika", "german_alternate": [""], "english": "America", "english_alternate": [""], "romaji": "amerika", "hiragana": "あめりか", "groups": [ "geography" ], "icon": "" }
   ]
 }
