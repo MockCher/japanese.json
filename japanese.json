@@ -118,6 +118,16 @@
     { "german": "Russland", "german_alternate": [""], "english": "Russia", "english_alternate": [""], "romaji": "roshia", "hiragana": "ろしあ", "groups": [ "geography" ], "icon": "" },
     { "german": "Italien", "german_alternate": [""], "english": "Italy", "english_alternate": [""], "romaji": "itaria", "hiragana": "いたりあ", "groups": [ "geography" ], "icon": "" },
     { "german": "Schweiz", "german_alternate": [""], "english": "Swiss", "english_alternate": [""], "romaji": "suisu", "hiragana": "すいす", "groups": [ "geography" ], "icon": "" },
-    { "german": "Amerika", "german_alternate": [""], "english": "America", "english_alternate": [""], "romaji": "amerika", "hiragana": "あめりか", "groups": [ "geography" ], "icon": "" }
+    { "german": "Amerika", "german_alternate": [""], "english": "America", "english_alternate": [""], "romaji": "amerika", "hiragana": "あめりか", "groups": [ "geography" ], "icon": "" },
+    { "german": "Nabel", "german_alternate": [""], "english": "", "english_alternate": [""], "romaji": "heso", "hiragana": "あめりか", "groups": [ "anatomy" ], "icon": "" },
+    { "german": "Krieger", "german_alternate": [""], "english": "", "english_alternate": [""], "romaji": "bushi", "hiragana": "あめりか", "groups": [ "history" ], "icon": "" },
+    { "german": "Boot", "german_alternate": ["Schiff"], "english": "", "english_alternate": [""], "romaji": "fune", "hiragana": "あめりか", "groups": [ "transportation" ], "icon": "" },
+    { "german": "Feuerwerk", "german_alternate": [""], "english": "", "english_alternate": [""], "romaji": "hanabi", "hiragana": "あめりか", "groups": [ "holiday" ], "icon": "" },
+    { "german": "Gürtel", "german_alternate": [""], "english": "", "english_alternate": [""], "romaji": "obi", "hiragana": "あめりか", "groups": [ "clothes" ], "icon": "" },
+    { "german": "klebrig", "german_alternate": [""], "english": "", "english_alternate": [""], "romaji": "betabeta", "hiragana": "あめりか", "groups": [ "adjectives" ], "icon": "" },
+    { "german": "zuckend", "german_alternate": [""], "english": "", "english_alternate": [""], "romaji": "bikubiku", "hiragana": "あめりか", "groups": [ "adjectives" ], "icon": "" },
+    { "german": "tröpfelnd", "german_alternate": [""], "english": "", "english_alternate": [""], "romaji": "potsupotsu", "hiragana": "あめりか", "groups": [ "adjectives" ], "icon": "" },
+    { "german": "meckernd", "german_alternate": [""], "english": "", "english_alternate": [""], "romaji": "butsubutsu", "hiragana": "あめりか", "groups": [ "adjectives" ], "icon": "" },
+    { "german": "klatschend", "german_alternate": [""], "english": "", "english_alternate": [""], "romaji": "pachipachi", "hiragana": "あめりか", "groups": [ "adjectives" ], "icon": "" }
   ]
 }
